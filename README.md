@@ -6,4 +6,4 @@ Things you may want to cover:
 
 * Faker
 
- 
+* Tested with POSTMAN chrome extension
